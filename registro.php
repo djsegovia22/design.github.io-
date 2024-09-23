@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     
                     // Botón para volver a enviar otro reporte
                     echo "<div style='text-align: center; margin-top: 20px;'>
-                            <a href='index.php' style='padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;'>Enviar otro reporte</a>
+                            <a href='formulario.html' style='padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;'>Enviar otro reporte</a>
                           </div>";
                 } else {
                     echo "<div style='background-color: #dc3545; color: white; padding: 20px; text-align: center;'>
