@@ -87,7 +87,7 @@
         </div>
 
         <h2>Reporte</h2>
-        <form action="registro.php" method="post" enctype="multipart/form-data">
+        <form action="conexion.php" method="post" enctype="multipart/form-data">
             <label for="nombre">Nombre (opcional):</label>
             <input type="text" id="nombre" name="nombre" placeholder="Tu nombre">
 
